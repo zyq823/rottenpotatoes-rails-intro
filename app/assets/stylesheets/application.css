@@ -13,6 +13,8 @@
  *= require_tree .
  *= require_self
  */
+ 
+/* Part 1 - use code provided to define hilite for table headings that are selected for sorting */
 table#movies th.hilite {
     background-color: yellow;
 }
